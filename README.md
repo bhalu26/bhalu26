@@ -1,7 +1,7 @@
 <h1>Hi, I'm Padma!</h1>
 
 Driven by a deep interest in cybersecurity, I am focused on developing the skills and knowledge
-required to defend against the ever chaanging landscape of cyber threats.
+required to defend against the ever changing landscape of cyber threats.
 
 
 <h2>👾Cybersecurity Projects</h2>
