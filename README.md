@@ -15,7 +15,7 @@
 
 <h2>⭐️Certifications</h2>
 
-- [SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://github.com/bhalu26/PadmaK/blob/4a531a26441005e5c70042f8c605cc6c24aac2ac/SC_900.png )
+- [SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://github.com/bhalu26/PadmaK/blob/4a531a26441005e5c70042f8c605cc6c24aac2ac/SC_900.png)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://github.com/bhalu26/PadmaK/blob/4a531a26441005e5c70042f8c605cc6c24aac2ac/AZ_900.png)
 - [CompTia Security+ (Work in Progress)]()
 - [CompTia Network+ (Work in Progress)]()
