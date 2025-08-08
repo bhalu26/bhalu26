@@ -22,7 +22,7 @@ required to defend against the ever changing landscape of cyber threats.
 - [SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://github.com/bhalu26/PadmaK/blob/4a531a26441005e5c70042f8c605cc6c24aac2ac/SC_900.png)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://github.com/bhalu26/PadmaK/blob/4a531a26441005e5c70042f8c605cc6c24aac2ac/AZ_900.png)
 - [CompTia Security+ (Work in Progress)]()
-- [Google Cybersecurity Professional Certificate]()
+- [Google Cybersecurity Professional Certificate](https://github.com/bhalu26/bhalu26/blob/main/GoogleCybersecurityProfessionalCertificateV2_Badge20250805-31-2rxi2j.pdf)
 - [TryHackMe SOC 1 (Work in Progress)]()
 
 <h2> 🤳 Connect with me:</h2>
